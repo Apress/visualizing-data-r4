@@ -1,0 +1,9 @@
+print(
+  par( 
+    "cin", 
+    "cra", 
+    "csi", 
+    "cxy", 
+    "pin" 
+    )
+  )

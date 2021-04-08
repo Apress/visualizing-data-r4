@@ -1,0 +1,18 @@
+print( 
+  par( 
+    "pin" 
+    )
+  )
+print( 
+  par( 
+    "cin" 
+    )/
+  par( 
+    "pin" 
+    )
+  )
+print(
+  par( 
+    "cxy" 
+    )
+  )
